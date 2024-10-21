@@ -11,7 +11,7 @@
 1. Clone o repositório:
 ```
 git clone https://github.com/LGstvexe/api_tarefas_aps
-cd meu_projeto_flask
+cd api_tarefas_aps
 ```
 2. Execute o script de instalação:
 ```
