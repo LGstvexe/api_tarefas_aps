@@ -3,6 +3,7 @@
 :: Atualizar e instalar dependências
 :: echo Instalando Python
 :: choco install python --version 3.9.0 -y
+:: choco install postgresql --version 13.0 -y
 
 :: Criar um diretório para o projeto
 mkdir "%USERPROFILE%\api_tarefas_aps"
