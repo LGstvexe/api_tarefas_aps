@@ -5,8 +5,8 @@
 :: choco install python --version 3.9.0 -y
 
 :: Criar um diretório para o projeto
-mkdir "%USERPROFILE%\meu_projeto_flask"
-cd "%USERPROFILE%\meu_projeto_flask"
+mkdir "%USERPROFILE%\api_tarefas_aps"
+cd "%USERPROFILE%\api_tarefas_aps"
 
 :: Criar um ambiente virtual
 python -m venv venv
