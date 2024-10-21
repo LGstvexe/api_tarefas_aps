@@ -10,7 +10,7 @@
 
 1. Clone o repositório:
 ```
-git clone https://github.com/seu_usuario/meu_projeto_flask.git
+git clone https://github.com/LGstvexe/api_tarefas_aps)
 cd meu_projeto_flask
 ```
 2. Execute o script de instalação:
